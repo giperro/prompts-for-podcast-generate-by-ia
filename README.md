@@ -1,6 +1,7 @@
 # Projeto Podcast Gerado por I.A.s
 
-Projeto criado com base no projeto do Bootcamp
+Projeto criado com base no projeto do Bootcamp "Fundamentos de AI para Devs 2024" do Santander.
+
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
